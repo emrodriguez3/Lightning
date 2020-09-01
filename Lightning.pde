@@ -1,7 +1,7 @@
 {
   size(500,500);
   background(0);
-  strokeweight(5);
+  strokeWeight(5);
 }
 void draw()
 {
