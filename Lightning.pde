@@ -5,7 +5,7 @@
 }
 void draw()
 {
-  stroke((int)(Math.random()*256),(int)(Math.random()*256),(int)(Math.random()*256));
+  stroke((int)(Math.random()*150),(int)(Math.random()*150),(int)(Math.random()*150));
   while(endX < 300)
   {
     endX = startX +(int)(Math.random()*10);
